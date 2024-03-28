@@ -4,7 +4,7 @@ btmgmt==1.1.0
 colorama==0.4.6
 halo==0.0.31
 log-symbols==0.0.14
-pybluez2==0.46
+# pybluez2==0.46
 pyserial==3.5
 six==1.16.0
 spinners==0.0.24
