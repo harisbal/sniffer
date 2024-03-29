@@ -3,6 +3,7 @@
 # Define the output file
 output_file="bt_devices.txt"
 sd_card="/media/pi"
+threshold=512
 
 # Continuously run btmgmt find and append the output to the text file
 while true; do
